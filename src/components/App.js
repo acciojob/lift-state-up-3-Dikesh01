@@ -25,7 +25,7 @@ const App = () => {
             <button onClick={handle2}>Option 2</button>
           </div>
 
-          <p>Selected Option : {option}</p>
+          <p>Selected Option: {option}</p>
     </div>
   )
 }
